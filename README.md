@@ -11,7 +11,7 @@ The HTML5 DOM has methods, properties, and events for the <audio> and <video> el
 | addTextTrack() | Adds a new text track to the audio/video |
 | canPlayType() | Checks if the browser can play the specified audio/video type |
 | load() | Re-loads the audio/video element |
-| play() Starts playing the audio/video |
+| play() | Starts playing the audio/video |
 | pause() | Pauses the currently playing audio/video |
 
 ### HTML Audio/Video Properties
